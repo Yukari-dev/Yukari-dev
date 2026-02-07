@@ -1,7 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukari-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-access-token-github-readme-stats.vercel.app/api?username=Yukari-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 ![Yukari's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yukari-dev&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yukari-dev&theme=tokyonight&hide_border=true)
-
+<img src="https://github-access-token-github-readme-stats.vercel.app/api/top-langs/?username=Yukari-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 ### 📊 My GitHub Dashboard
 
 <table>
