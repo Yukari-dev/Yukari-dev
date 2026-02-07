@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yukari</h1>
 <h3 align="center">A young passionate generalist developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yukari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yukari-dev" /> </p>
-
 - 🔭 I’m currently working on **a website**
 
 - 🌱 I’m currently learning **full-stack web development**
