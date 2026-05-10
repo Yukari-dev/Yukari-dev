@@ -9,8 +9,6 @@
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="54" alt="cplusplus logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="54" alt="csharp logo"  />
-  <img width="19" />
   <img src="https://skillicons.dev/icons?i=py" height="54" alt="python logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="54" alt="java logo"  />
@@ -20,10 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="54" alt="sdl logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="54" alt="vscode logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="54" alt="unity logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="54" alt="godot logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="54" alt="dart logo"  />
   <img width="19" />
