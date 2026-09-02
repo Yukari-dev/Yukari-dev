@@ -1,35 +1,41 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="54" alt="c logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="54" alt="cplusplus logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=py" height="54" alt="python logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="54" alt="java logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="54" alt="opengl logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="54" alt="sdl logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="54" alt="vscode logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="54" alt="dart logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="54" alt="android logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/yukari_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=int+main()+%7B+render_frame();+return+0;+%7D;Crafting+custom+rendering+pipelines...;Exploring+low-level+performance+%26+architecture.;" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <a href="https://www.instagram.com/yukari_dev" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-101010?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  &nbsp;
+</p>
+
+<br />
+
+```c
+/* ============================================================================
+ *  YUKARI // ENGINE CORE & RENDERING ARCHITECTURE
+ * ============================================================================ */
+
+#include <stdio.h>
+
+typedef struct {
+    const char *primary_stack[3];
+    const char *graphics_apis[2];
+    const char *philosophies[2];
+} Developer;
+
+int main(void) {
+    Developer selfInfo = {
+        .primary_stack = {"C", "C++", "Python"},
+        .graphics_apis = {"OpenGL", "Vulkan / Native Pipelines"},
+        .philosophies  = {"Modularity", "Zero-Cost Abstractions"}
+    };
+    VkResult result = vkCreateDeveloper(neovim, &selfInfo, nullptr, &yukari);
+    if(result != VK_SUCCESS)
+      throw std::runtime_error("try again.");
+    
+    return 0;
+}
+```
