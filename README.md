@@ -1,3 +1,11 @@
+
+
+<p align="center">
+  <a href="https://www.instagram.com/yukari_dev" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-101010?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=int+main()+%7B+render_frame();+return+0;+%7D;Crafting+custom+rendering+pipelines...;Exploring+low-level+performance+%26+architecture.;" alt="Typing SVG" />
@@ -5,13 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/yukari_dev" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-101010?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  &nbsp;
+  <img src="./githubGIF.gif" width="100%" alt="Banner GIF" />
 </p>
-
-<br />
 
 ```c
 /* ============================================================================
